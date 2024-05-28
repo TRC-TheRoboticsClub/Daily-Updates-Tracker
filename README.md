@@ -1,6 +1,3 @@
-Sure, here's a README for your project:
-
----
 
 # Discord Bot for Logging Messages to Google Sheets
 
