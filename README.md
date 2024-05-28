@@ -22,8 +22,8 @@ This Discord bot monitors specific channels for messages from users with certain
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone https://github.com/TRC-TheRoboticsClub/Daily-Updates-Tracker
+   cd Daily-Updates-Tracker
    ```
 2. Create and activate a virtual environment (optional but recommended):
 
@@ -53,7 +53,7 @@ This Discord bot monitors specific channels for messages from users with certain
 Run the bot using the following command:
 
 ```sh
-python bot.py
+python Bot.py
 ```
 
 ## Usage
@@ -63,8 +63,6 @@ python bot.py
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-
-Replace placeholders like `yourusername` and `your-repository` with your actual GitHub username and repository name. Save this content to a `README.md` file in your project directory.
